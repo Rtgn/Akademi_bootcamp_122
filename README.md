@@ -52,7 +52,6 @@ Takım Değişikliği formundan sonra iletişime geçilmeye çalışılması ned
 
 ![Ekran görüntüsü 2025-07-04 175519](https://github.com/user-attachments/assets/8133273a-7d9d-4afd-9ae4-f318a51b9f57)
 
-![Ekran görüntüsü 2025-07-04 175619](https://github.com/user-attachments/assets/c3b1cd3c-5a0a-4d7f-9e14-3d573f6968c8)
 
 ## Uygulama Görüntüsü
 
