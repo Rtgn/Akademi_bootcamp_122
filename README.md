@@ -1,4 +1,3 @@
-# Takım ve Ürün Bilgileri
 ## Takım İsmi
 YZ122
 ## Takım Üyeleri ve Rolleri
@@ -9,7 +8,7 @@ YZ122
 - Barış Köse: Developer
 
 ## Ürün İsmi
--EmpaMomAI
+-EmpaMom
 
 ## Ürün Açıklaması
 Doğum sonrası dönem, anneler için fiziksel toparlanma, hormonal değişimler, ruhsal iniş çıkışlar ve yeni bir yaşama uyum sağlama sürecidir. Bu dönemde birçok anne, hem kendi bedeninde hem de duygularında büyük değişimler yaşarken, bir yandan da bebeğin bakımıyla ilgili yüzlerce soru ve belirsizlikle karşı karşıya kalır.
@@ -25,12 +24,11 @@ Doğum sonrası dönem, anneler için fiziksel toparlanma, hormonal değişimler
 - Duygu analizine dayalı AI sohbet
 - Kişiye özel lohusa egzersiz ve beslenme planı
 - Annenin doğum sonrası kendisi ve bebek ile ilgili merak ettiklerini cevaplamaya yönelik soru-cevap
-- Kolay erişim için tasarlanmış mobil uygulama
-- Program takibi için hatırlatıcı/bildirim
+- Anne için motive edici cümleler ve bazı kontroller(su içme, gerekli beslenme...)
 
 ## Hedef Kitle
 - Yeni(çoğunlukla ilk kez),
-- Mobil teknolojiye alışkın,
+- internet kullanımına alışkın,
 - Duygusal olarak yalnız/bilgisiz/anksiyeteli hisseden,
 - Yönlendirilmeye ihtiyacı duyan
 yeni anne olmuş kadınlar.
@@ -41,33 +39,40 @@ Takım Değişikliği formundan sonra iletişime geçilmeye çalışılması ned
 
 # Sprint 1 
 - Tamamlanması beklenen puan: 3 puan (32 puan içinde)
-- Beklentiler: Proje Fikrinin belirlenmesinin ardından eşleştirilmelerin yapılması(gerekli araştırma ve uygulamaların yapılması için temelde veri bilimi- yaapy zeka eşleştirilmesi), araştırmalara başlanması ve mobil uygulamanın ana sayfasının yapılmış olması.
+- Beklentiler: Proje Fikrinin belirlenmesinin ardından eşleştirilmelerin yapılması(gerekli araştırma ve uygulamaların yapılması için temelde veri bilimi- yaapy zeka eşleştirilmesi), araştırmalara başlanması ve web sayfasının ana sayfasının yapılmış olması.
 - Daily Scrum: Google Meet üzerinden yapılmış ve herkes proje gidişatı hakkında bilgilendirilerek, görev dağılımları netleştirilmiş ve Sprint 2 ye dahil olacak bir sonraki toplantı için gün belirlenerek araştırmaların yapılması istenmiştir.
 
     
 
 
-## Sprint Board Updates 
+## Product Backlog
 ![Ekran görüntüsü 2025-07-04 175459](https://github.com/user-attachments/assets/b49f0065-93c6-4497-aafb-3dab03c84535)
 
 ![Ekran görüntüsü 2025-07-04 175519](https://github.com/user-attachments/assets/8133273a-7d9d-4afd-9ae4-f318a51b9f57)
 
+![Ekran görüntüsü 2025-07-04 175619](https://github.com/user-attachments/assets/18e37a55-b9df-48b7-a038-fb707db800d9)
 
-## Uygulama Görüntüsü
 
+## Product 
+![Ekran görüntüsü 2025-07-06 232022](https://github.com/user-attachments/assets/d33c0a9e-5207-4f9b-b7c6-9b70b3b50784)
 
+![Ekran görüntüsü 2025-07-06 232056](https://github.com/user-attachments/assets/8d302e3b-6646-4ccd-a13f-ca2c78bd17c9)
+
+![Ekran görüntüsü 2025-07-06 232108](https://github.com/user-attachments/assets/997e48ff-db22-483a-9bfc-fbc1d7b00a6d)
+
+![Ekran görüntüsü 2025-07-06 232407](https://github.com/user-attachments/assets/6e28d28f-4aa2-495c-bc81-cb73799b90fd)
 
 
 ## Sprint Review:
 - Üyeler ile aktif iletişimin Whatsapp üzerinden yapılmasına karar verildi
 - Sesli toplantıların sorunlar yaşanmadığı sürece Google Meet üzerinden yapılması kararlaştırıldı
 - Fikir konusunda başta belirsizlik yaşansa da anlaşmaya varıldı
-- Arayüz için Flutter kullanılmasına karar verildi
+- Arayüz için web kullanılmasına kullanılmasına karar verildi(temeli Flask ile yapılmasına karar verildi)
   
 ## Sprint Retrospektif
 - Takım içi iletişimde başta sorunlar yaşansa da toparlanıldı ve aktiflik konusunda anlaşmaya varıldı.
 - Görev paylaşımları yapıldı ve üyeler takımlara ayrıldı
-- 2. Sprint zamanı aktifliğin arttırılması ve proje gidişatında hızlanılması konusunda üyelerle anlaşmaya varıldı
+- Sprint 2 zamanı aktifliğin arttırılması ve proje gidişatında hızlanılması konusunda üyelerle anlaşmaya varıldı
 
 
 
