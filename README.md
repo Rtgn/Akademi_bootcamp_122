@@ -62,6 +62,8 @@ Takım Değişikliği formundan sonra iletişime geçilmeye çalışılması ned
 
 ![Ekran görüntüsü 2025-07-06 232407](https://github.com/user-attachments/assets/6e28d28f-4aa2-495c-bc81-cb73799b90fd)
 
+![Ekran görüntüsü 2025-07-06 235123](https://github.com/user-attachments/assets/8726f78e-4d16-43e4-9001-8d660e794f98)
+
 
 ## Sprint Review:
 - Üyeler ile aktif iletişimin Whatsapp üzerinden yapılmasına karar verildi
