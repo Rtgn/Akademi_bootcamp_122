@@ -39,11 +39,18 @@ Takım Değişikliği formundan sonra iletişime geçilmeye çalışılması ned
 
 # Sprint 1 
 - Tamamlanması beklenen puan: 3 puan (32 puan içinde)
+## Point Completion Logic
+    -  İlk sprint döneminde, fikrin bulunması, temel özelliklerin belirlenmesi, sayfa yapısının tasarlanması ve iskelet yapısının kodlanması hedeflenmiş, bu aşama için 3 puanlık bir iş yükü öngörülmüştür. İkinci sprint döneminde ise çalışmaların hız kazanması, belirlenen yol haritasının hayata geçirilmesi ve farklı alanlarda takım çalışmasıyla temel özelliklerin çalışır hale getirilmesi planlanmış, bu doğrultuda 20 puanlık bir kısmın tamamlanması hedeflenmiştir. Üçüncü ve son sprint döneminde ise uygulamanın genel kontrollerinin yapılması, tüm bileşenlerin entegre edilerek sistemin tam anlamıyla çalışır hale getirilmesi ve uygulama içi verimliliği artırmaya yönelik çalışmaların tamamlanması amaçlanmış olup, bu aşama için 9 puanlık bir iş yükü öngörülmüştür.
+
 - Beklentiler: Proje Fikrinin belirlenmesinin ardından eşleştirilmelerin yapılması(gerekli araştırma ve uygulamaların yapılması için temelde veri bilimi- yaapy zeka eşleştirilmesi), araştırmalara başlanması ve web sayfasının ana sayfasının yapılmış olması.
 - Daily Scrum: Google Meet üzerinden yapılmış ve herkes proje gidişatı hakkında bilgilendirilerek, görev dağılımları netleştirilmiş ve Sprint 2 ye dahil olacak bir sonraki toplantı için gün belirlenerek araştırmaların yapılması istenmiştir.
 
-    
 
+    
+## Daily Scrum
+![Ekran görüntüsü 2025-07-04 212230](https://github.com/user-attachments/assets/0477705a-65f3-4add-9525-6acfeb2c60c5)
+
+![Ekran görüntüsü 2025-07-04 212501](https://github.com/user-attachments/assets/c10b25a6-e08e-42af-99aa-313c85b62a16)
 
 ## Product Backlog
 ![Ekran görüntüsü 2025-07-04 175459](https://github.com/user-attachments/assets/b49f0065-93c6-4497-aafb-3dab03c84535)
