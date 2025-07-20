@@ -94,5 +94,16 @@ Trello
 
 ## Product
 
+## Sprint Rewiev
+- Bazı buton ve yerleştirmelerin renk tonlarında karara varıldı
+- Program kaydedilimleri konuşuldu
+- Uygulama ve kodların nasıl birleşileceği hakkında konuşuldu
+- Takım üyelerinin bir sonraki birleştirme ve demo ürünü oluşturma aşaması için araştırmalar yapması öngörüldü. 
+- Kullanıcı giriş ve kayıdının kontrolü yapıldı
 
+## Sprint Retropersektif
+- Takım içi iletişim güçlendirildi
+- Öncesinde web projesi olarak devam edilecekti ama mobil uygulama geçmişi olan arkadaş ile uygulama ile devam edilmeye karar verildi
+- Main chatbot ve uygulama ayrı ayrı hazır halde olduğu için son sprintte birleştirilmesine karar verildi.
+- Görev dağılımlarının iyileştirilmesi gerektiğine karar verildi. 
 
