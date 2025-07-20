@@ -90,7 +90,7 @@ Takım Değişikliği formundan sonra iletişime geçilmeye çalışılması ned
   Resimler
 - Beklentiler: Proje mimarisinin netleştirilmesi ardından araştırma ve sınrasında kodlama kısmına geçiş yapılması. Ürünün mobil uygulama olmasına karar verildikten sonra Ürün uygulanasının tasarımının ve yapımının tamamlanması. 
 ## Product Backlog
-Trello
+Trello 
 
 ## Product
 
