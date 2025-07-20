@@ -62,6 +62,7 @@ Takım Değişikliği formundan sonra iletişime geçilmeye çalışılması ned
 </details>
 
 
+
 ## Product Backlog
 
 <details>
@@ -171,7 +172,11 @@ Yoğunluk nedeniyle günlük scrum toplantılarının **WhatsApp** üzerinden y�
   <img src="https://github.com/user-attachments/assets/86c40e22-4074-42dc-b875-530ef8c35732" width="800"/><br>
   <img src="https://github.com/user-attachments/assets/0d412e9c-6fe1-4f8b-9fa1-001b6c78ec97" width="800"/><br>
   <img src="https://github.com/user-attachments/assets/5c383d56-5ab7-4d27-aeda-a92901cd46b2" width="800"/><br>
-  <img src="https://github.com/user-attachments/assets/2197c407-9a30-4d89-bd3d-65c36d6614b8" width="800"/>
+  <img src="https://github.com/user-attachments/assets/2197c407-9a30-4d89-bd3d-65c36d6614b8" width="800"/><br>
+  <img src="https://github.com/user-attachments/assets/09236417-0a16-495d-b70f-a756ba43d8d9" width="800"/><br>
+  <img src="https://github.com/user-attachments/assets/8dbed918-a71f-4c95-a67e-72bb41d11383" width="800"/><br>
+  <img src="https://github.com/user-attachments/assets/74bd1a5c-7040-4fc6-846d-22c5a2c086c2" width="800"/><br>
+  <img src="https://github.com/user-attachments/assets/88775c34-d777-41e6-896b-0b392b52696e" width="800"/>
 </p>
 
 </details>
