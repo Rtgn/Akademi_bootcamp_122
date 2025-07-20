@@ -85,6 +85,9 @@ Takım Değişikliği formundan sonra iletişime geçilmeye çalışılması ned
 
 
 # Sprint 2
+Tamamlanması Gereken Puan: 20 Puan + 3 puan (1.Sprint)
+Puan Durumu: İlk sprintte yapılmış olan uygulama mimarisinin kodlayıcısı ve tasarımcısının değişmesi nedeni ile bu sprinttw toplam 23 puanlık bir işgücü oluşmuş ve tamamlanmıştır. Puan mantığına göre bu puanın 5 puanı uygulamanın tasarım ve kodlanmasının tamamlanmasına, 10 puan 4 farklı modülün ayrı ayrı çalışır hale getirilmesine, 8 puan modüllerin birleştirilip kullanıcı mesajının doğru modüle yönlendirilmesine tanımlanmış olup, gerekli puan tamamlanmıştır
+
 - Daily Scrum: Yopunluk nedeniyle iletişimin ve daily scrum'un Whatsapp üzerinden yapılmasına karar verilmiştir
 
   Resimler
