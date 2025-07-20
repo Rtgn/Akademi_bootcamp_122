@@ -83,30 +83,45 @@ Takım Değişikliği formundan sonra iletişime geçilmeye çalışılması ned
 - Görev paylaşımları yapıldı ve üyeler takımlara ayrıldı
 - Sprint 2 zamanı aktifliğin arttırılması ve proje gidişatında hızlanılması konusunda üyelerle anlaşmaya varıldı
 
-
 # Sprint 2
-Tamamlanması Gereken Puan: 20 Puan + 3 puan (1.Sprint)
-Puan Durumu: İlk sprintte yapılmış olan uygulama mimarisinin kodlayıcısı ve tasarımcısının değişmesi nedeni ile bu sprinttw toplam 23 puanlık bir işgücü oluşmuş ve tamamlanmıştır. Puan mantığına göre bu puanın 5 puanı uygulamanın tasarım ve kodlanmasının tamamlanmasına, 10 puan 4 farklı modülün ayrı ayrı çalışır hale getirilmesine, 8 puan modüllerin birleştirilip kullanıcı mesajının doğru modüle yönlendirilmesine tanımlanmış olup, gerekli puan tamamlanmıştır
 
-- Daily Scrum: Yopunluk nedeniyle iletişimin ve daily scrum'un Whatsapp üzerinden yapılmasına karar verilmiştir
+##  Tamamlanması Gereken Puan  
+**20 puan** + 1. Sprint'ten devreden **3 puan**  
+**Toplam: 23 puan**
 
-  Resimler
-- Beklentiler: Proje mimarisinin netleştirilmesi ardından araştırma ve sınrasında kodlama kısmına geçiş yapılması. Ürünün mobil uygulama olmasına karar verildikten sonra Ürün uygulanasının tasarımının ve yapımının tamamlanması. 
+## Puan Durumu  
+İlk sprintteki uygulama mimarisi tasarımcısının ve kodlayıcısının değişmesi nedeniyle bu sprintte toplam **23 puanlık iş gücü** oluşmuş ve başarıyla tamamlanmıştır.
+
+**Puan dağılımı:**
+- **5 puan** → Uygulama tasarımı ve kodlamasının tamamlanması  
+- **10 puan** → 4 farklı modülün ayrı ayrı çalışır hale getirilmesi  
+- **8 puan** → Modüllerin entegre edilerek kullanıcı mesajlarının doğru modüle yönlendirilmesi  
+
+## 🗨️ Daily Scrum  
+Yoğunluk nedeniyle günlük scrum toplantılarının **WhatsApp** üzerinden yürütülmesine karar verilmiştir.
+
 ## Product Backlog
-Trello 
+<img width="3071" height="1473" alt="Ekran görüntüsü" src="https://github.com/user-attachments/assets/c5f6960e-312a-4ebc-8c75-18e3f600b837" />
+<img width="3071" height="1454" alt="Ekran görüntüsü" src="https://github.com/user-attachments/assets/9b7a5dee-95bf-4f0f-a91d-7db01eefbe57" />
+<img width="3071" height="1464" alt="Ekran görüntüsü" src="https://github.com/user-attachments/assets/230a4a40-c8b4-48c1-8c41-b4d204d91db7" />
+<img width="3071" height="1457" alt="Ekran görüntüsü 2025-07-20 220335" src="https://github.com/user-attachments/assets/899e6a29-4cce-45e0-a94b-7fa66fe976f0" />
 
 ## Product
 
-## Sprint Rewiev
-- Bazı buton ve yerleştirmelerin renk tonlarında karara varıldı
-- Program kaydedilimleri konuşuldu
-- Uygulama ve kodların nasıl birleşileceği hakkında konuşuldu
-- Takım üyelerinin bir sonraki birleştirme ve demo ürünü oluşturma aşaması için araştırmalar yapması öngörüldü. 
-- Kullanıcı giriş ve kayıdının kontrolü yapıldı
 
-## Sprint Retropersektif
-- Takım içi iletişim güçlendirildi
-- Öncesinde web projesi olarak devam edilecekti ama mobil uygulama geçmişi olan arkadaş ile uygulama ile devam edilmeye karar verildi
-- Main chatbot ve uygulama ayrı ayrı hazır halde olduğu için son sprintte birleştirilmesine karar verildi.
-- Görev dağılımlarının iyileştirilmesi gerektiğine karar verildi. 
+## Sprint Review
+
+- Uygulama arayüzündeki butonların ve yerleşimlerin renk tonları belirlendi  
+- **Gemini** tarafından hazırlanan program kayıt yapıları değerlendirildi  
+- Uygulama ile chatbot kodlarının nasıl entegre edileceği tartışıldı  
+- Takım üyelerinin, birleştirme ve demo ürünü oluşturma süreci için araştırma yapmaları planlandı  
+- Kullanıcı giriş ve kayıt sistemi kontrol edilerek çalışır hale getirildi
+
+
+## Sprint Retrospektif
+
+- Takım içi iletişim güçlendirildi  
+- Başlangıçta web uygulaması olarak planlanan proje, mobil uygulama deneyimi olan bir takım üyesinin yönlendirmesiyle **mobil uygulama** olarak devam ettirildi  
+- **Main chatbot** ve **mobil uygulama** ayrı ayrı hazırlandığı için son sprintte birleştirilmesine karar verildi  
+- Görev dağılımının daha verimli olması için yeniden yapılandırılması gerektiği tespit edildi
 
