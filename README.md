@@ -84,6 +84,15 @@ Takım Değişikliği formundan sonra iletişime geçilmeye çalışılması ned
 - Sprint 2 zamanı aktifliğin arttırılması ve proje gidişatında hızlanılması konusunda üyelerle anlaşmaya varıldı
 
 
+# Sprint 2
+- Daily Scrum: Yopunluk nedeniyle iletişimin ve daily scrum'un Whatsapp üzerinden yapılmasına karar verilmiştir
+
+  Resimler
+- Beklentiler: Proje mimarisinin netleştirilmesi ardından araştırma ve sınrasında kodlama kısmına geçiş yapılması. Ürünün mobil uygulama olmasına karar verildikten sonra Ürün uygulanasının tasarımının ve yapımının tamamlanması. 
+## Product Backlog
+Trello
+
+## Product
 
 
 
