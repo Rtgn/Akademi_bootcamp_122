@@ -109,19 +109,24 @@ Takım Değişikliği formundan sonra iletişime geçilmeye çalışılması ned
 - Sprint 2 zamanı aktifliğin arttırılması ve proje gidişatında hızlanılması konusunda üyelerle anlaşmaya varıldı
 
 # Sprint 2
-
-##  Tamamlanması Gereken Puan  
+## Sprint Notları
+- Mobil uygulama geliştirme kararı alındı, arayüz ve modüller buna göre şekillendirildi.
+- 4 farklı modül ayrı ayrı çalışır hâle getirildi.
+- Kullanıcı mesajlarının doğru modüle yönlendirilmesi için yönlendirme sistemi kuruldu.
+- Günlük Scrum toplantıları yoğunluk nedeniyle **WhatsApp üzerinden** yürütüldü.
+- Görev dağılımlarının daha dengeli yapılması gerektiği retrospektifte belirlendi.
+###  Tamamlanması Gereken Puan  
 **20 puan** + 1. Sprint'ten devreden **3 puan**  
 **Toplam: 23 puan**
 
-## Puan Durumu  
+### Puan Durumu  
 İlk sprintteki uygulama mimarisi tasarımcısının ve kodlayıcısının değişmesi nedeniyle bu sprintte toplam **23 puanlık iş gücü** oluşmuş ve başarıyla tamamlanmıştır.
 
 **Puan dağılımı:**
 - **5 puan** → Uygulama tasarımı ve kodlamasının tamamlanması  
 - **10 puan** → 4 farklı modülün ayrı ayrı çalışır hale getirilmesi  
 - **8 puan** → Modüllerin entegre edilerek kullanıcı mesajlarının doğru modüle yönlendirilmesi
-- 
+  
 ##  Daily Scrum  
 Yoğunluk nedeniyle günlük scrum toplantılarının **WhatsApp** üzerinden yürütülmesine karar verilmiştir.
 
