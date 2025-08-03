@@ -304,3 +304,7 @@ Yoğunluk nedeniyle günlük scrum toplantılarının **WhatsApp** üzerinden y�
 - Takım içi iletişimde herhangi bir sorun yaşanmadı; görevler bireysel iletişimle yürütüldü ve bu sayede iletişimde gürültü oluşmadı.
 - Mobil uygulamanın özellikleri takım üyeleri tarafından kontrol edilip değerlendirildi.
 - Chatbot'un API sistemine dönüştürülmesinde bazı sorunlar yaşandı ancak bu problemler başarıyla çözüldü.
+
+  ## Empamom Genel İş Modeli
+  ![image](https://github.com/user-attachments/assets/4e14149c-7e15-4c4c-b104-c96a832368b4)
+
