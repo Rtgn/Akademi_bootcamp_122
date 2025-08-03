@@ -282,7 +282,11 @@ Yoğunluk nedeniyle günlük scrum toplantılarının **WhatsApp** üzerinden y�
   <img src="https://github.com/user-attachments/assets/09236417-0a16-495d-b70f-a756ba43d8d9" width="800"/><br>
   <img src="https://github.com/user-attachments/assets/8dbed918-a71f-4c95-a67e-72bb41d11383" width="800"/><br>
   <img src="https://github.com/user-attachments/assets/74bd1a5c-7040-4fc6-846d-22c5a2c086c2" width="800"/><br>
-  <img src="https://github.com/user-attachments/assets/88775c34-d777-41e6-896b-0b392b52696e" width="800"/>
+  <img src="https://github.com/user-attachments/assets/88775c34-d777-41e6-896b-0b392b52696e" width="800"/><br>
+  <img width="800" alt="Ekran görüntüsü 2025-08-03 161301" src="https://github.com/user-attachments/assets/c21e57ef-93b7-48e3-bc3f-21e6db2474c7" /><br>
+  <img width="800" alt="Ekran görüntüsü 2025-08-03 161320" src="https://github.com/user-attachments/assets/973d2348-7576-467e-b1b3-87419f1d69f6" /><br>
+  <img width="800" alt="Ekran görüntüsü 2025-08-03 161333" src="https://github.com/user-attachments/assets/408dfe64-b054-4b16-bea0-ea0b52a3ccd3" />
+
 </p>
 
 </details>
