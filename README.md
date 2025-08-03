@@ -233,12 +233,12 @@ Yoğunluk nedeniyle günlük scrum toplantılarının **WhatsApp** üzerinden y�
 <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1cf830da-71a4-4ce8-8c88-dabf298b7545" width="400"/><br>
-  <img src="https://github.com/user-attachments/assets/eb6e6eee-01dd-4fd6-88c8-cca6ca0b9775" width="400"/><br>
-  <img src="https://github.com/user-attachments/assets/86af653f-6cfa-4f12-9f3b-3e875c258be0" width="400"/><br>
-  <img src="https://github.com/user-attachments/assets/8ac9332a-1ff7-430a-a5c6-72d046326816" width="400"/><br>
-  <img src="https://github.com/user-attachments/assets/9f5d785c-5294-40a0-8e32-588d7547ced4" width="400"/><br>
-  <img src="https://github.com/user-attachments/assets/75abacc1-f47b-4415-b2c4-867f1fa32209" width="400"/>
+    <img src="https://github.com/user-attachments/assets/17b92146-dbf3-4084-9a77-241c14a2fe64" width="400"/><br>
+    <img src="https://github.com/user-attachments/assets/eabd8be6-dcb0-43f2-8f69-c98318d12229" width="400"/><br>
+    <img src="https://github.com/user-attachments/assets/fe635d7d-e81f-4f4d-a005-331f6c5f9d2b" width="400"/><br>
+    <img src="https://github.com/user-attachments/assets/0cb9ba53-6619-43c4-af26-25c72599d9a3" width="400"/><br>
+    <img src="https://github.com/user-attachments/assets/69de1059-c4a7-4ce6-b59b-6f1cb260893d" width="400"/><br>
+
 </p>
 
 </details>
