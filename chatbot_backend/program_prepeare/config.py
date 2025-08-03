@@ -4,7 +4,7 @@ from typing import Optional
 class Config:
     
     # Gemini API Configuration
-    GEMINI_API_KEY: str = "AIzaSyCQ-AAImtpu_zjH8Obly8gk9vaWJopIgGo"  # Replace with your actual API key
+    GEMINI_API_KEY: str = "YOUR-API-KEY"  # Replace with your actual API key
     
     # Model Configuration
     GEMINI_MODEL: str = "gemini-1.5-flash"
